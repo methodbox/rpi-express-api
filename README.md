@@ -14,7 +14,7 @@ npm install
 ```
 
 ## Run as sudo
-This needs to be run on the Raspberry Pi, and as of now you need to run it using `sudo`
+This needs to be run on the Raspberry Pi, and as of now you need to run it using `sudo`.
 
 ```bash
 cd rpi-express-api

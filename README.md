@@ -13,7 +13,7 @@ cd rpi-express-api
 npm install
 ```
 
-# Run as sudo
+## Run as sudo
 This needs to be run on the Raspberry Pi, and as of now you need to run it using `sudo`
 
 ```bash
@@ -21,5 +21,5 @@ cd rpi-express-api
 sudo node blink.js
 ```
 
-# Example Project
+## Example Project
 Use this example from W3Schools to get started (don't use their code; I'm using Johnny-Five - just copy the breadboard setup): https://www.w3schools.com/nodejs/nodejs_raspberrypi_blinking_led.asp

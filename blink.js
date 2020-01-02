@@ -13,8 +13,6 @@ const board = new Board({
 
 const led = new Led("P1-13");
 
-
-
 app.use(cors())
 
 app.get('/', (err, res) => {
